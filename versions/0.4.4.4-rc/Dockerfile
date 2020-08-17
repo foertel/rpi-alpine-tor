@@ -1,4 +1,4 @@
-# Tor 0.3.0.1-alpa - alpha version
+# Tor 0.4.4.4-rc
 
 FROM armhf/alpine:latest
 MAINTAINER Felix Oertel "https://github.com/foertel"
